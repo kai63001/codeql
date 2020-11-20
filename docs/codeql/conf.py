@@ -95,5 +95,5 @@ html_static_path = ['_static']
 html_extra_path = ['index.html']
 
 # Exclude these paths from being built by Sphinx
-exclude_patterns = ['vale*', '_static', '_templates', 'reusables', 'images', 'support', 'ql-training', '_build', '*.py*', 'README.rst']
+exclude_patterns = ['vale*', '_static', '_templates', 'reusables', 'images', 'support', 'ql-training', 'query-help','_build', '*.py*', 'README.rst']
 ##############################################################################
